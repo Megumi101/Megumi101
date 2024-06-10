@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Megumi</h1>
+<h3 align="center">I'm A Developer From Japan, Nice To meet youu</h3>
 
 - 🔭 I’m currently working on **Starfish Company**
 
